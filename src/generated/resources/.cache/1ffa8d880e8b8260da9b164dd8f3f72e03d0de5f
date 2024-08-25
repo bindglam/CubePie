@@ -1,0 +1,10 @@
+// 1.20.4	2024-08-25T15:53:34.59590708	Block States: cubepie
+b2a2321f71800302515664ec0ca07bd7fb98f255 assets/cubepie/blockstates/deepslate_ruby_ore.json
+0b9888d467ceeacf2856bae0c7b28f6fd2bcbcc4 assets/cubepie/blockstates/ruby_block.json
+a07bc76837b7196791536ff999b898c46527c73e assets/cubepie/blockstates/ruby_ore.json
+5379bc6fbe937cac4701f4b91f842c911728a7ab assets/cubepie/models/block/deepslate_ruby_ore.json
+e2e66105856b9223ad592530e3e922f0595ef141 assets/cubepie/models/block/ruby_block.json
+354686599d5fb39a64028b94f0b492b5ca19d529 assets/cubepie/models/block/ruby_ore.json
+dde75e9e3cacd38479b1745e36e1b31e7a319670 assets/cubepie/models/item/deepslate_ruby_ore.json
+79229a04683dd8629632859da201a7208fe040e1 assets/cubepie/models/item/ruby_block.json
+7eb13afbaeb9c35634dfaeb9115d2374d8d306f2 assets/cubepie/models/item/ruby_ore.json
